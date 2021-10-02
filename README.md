@@ -15,10 +15,10 @@ A intenção neste mini-projeto foi de estudar e aplicar alguns conhecimentos ad
 ### Link
 <br/>
 
-```json
+
   CodePen: 
-  https://codepen.io/karinafukuda/project/full/AoEGbW
-```
+  <a href="https://codepen.io/karinafukuda/project/full/AoEGbW" target="_blank" >Veja o projeto aqui</a>
+
 
 
 
